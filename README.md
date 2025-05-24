@@ -36,6 +36,7 @@ This project is a front-end template for a coffee shop website. It is designed t
 ![Coffee Shop Screenshot](./Popurle.png)
 ![Coffee Shop Screenshot](./AboutUs.png)
 ![Coffee Shop Screenshot](./Products.png)
+![Coffee Shop Screenshot](./Contactus.png)
 
 ## 🚀 Installation
 
